@@ -64,3 +64,5 @@ notebooks/config\.yml
 data/
 
 notebooks/\.ipynb_checkpoints/
+
+config/
