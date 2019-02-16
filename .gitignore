@@ -66,3 +66,5 @@ data/
 notebooks/\.ipynb_checkpoints/
 
 config/
+
+notebooks/figs/
