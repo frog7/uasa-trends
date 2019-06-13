@@ -61,10 +61,10 @@ notebooks/tmp/
 
 notebooks/config\.yml
 
-data/
-
 notebooks/\.ipynb_checkpoints/
 
 config/
 
 notebooks/figs/
+
+tmp/
